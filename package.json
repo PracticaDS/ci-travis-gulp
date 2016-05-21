@@ -8,6 +8,5 @@
     "jshint-stylish": "^2.2.0"
   },
   "scripts": {
-    "test": "grunt --verbose"
   }
 }
